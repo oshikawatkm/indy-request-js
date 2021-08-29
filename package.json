@@ -1,0 +1,14 @@
+{
+  "name": "indey-request-js",
+  "version": "0.0.1",
+  "description": "communicate with aries-agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Oshikawa Takumu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
